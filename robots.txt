@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-mxs13w.cingbet138.site/sitemap.xml
